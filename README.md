@@ -33,26 +33,26 @@ This Power BI report enables users to:<br>
 
 ⚡ How to Use This Dashboard?<br>
 🚀 Step 1: Open the Power BI file<br>
-Download and open HR Analytics Project.pbix in Microsoft Power BI Desktop.
+Download and open HR Analytics Project.pbix in Microsoft Power BI Desktop.<br>
 
-📊 Step 2: Explore Insights
-Interact with the dashboard to analyze different workforce trends and KPIs.
+📊 Step 2: Explore Insights<br>
+Interact with the dashboard to analyze different workforce trends and KPIs.<br>
 
-🔍 Step 3: Apply Slicers
-Use the available slicers to filter data by department & other charts for salary, job role, gender, and experience level.
+🔍 Step 3: Apply Slicers<br>
+Use the available slicers to filter data by department & other charts for salary, job role, gender, and experience level.<br>
 
-📈 Step 4: Make Data-Driven HR Decisions!
-Utilize insights to improve retention strategies, enhance employee satisfaction, and optimize workforce planning.
+📈 Step 4: Make Data-Driven HR Decisions!<br>
+Utilize insights to improve retention strategies, enhance employee satisfaction, and optimize workforce planning.<br>
 
-🌟 Why This Dashboard?
-✅ User-Friendly Interface – Clean, visually appealing, and easy to navigate.
-✅ Data-Driven Insights – Helps HR teams make informed decisions.
-✅ Customizable Slicers – Explore data at different levels for deeper insights.
-✅ Actionable Metrics – Improve employee retention and workforce planning.
+🌟 Why This Dashboard?<br>
+✅ User-Friendly Interface – Clean, visually appealing, and easy to navigate.<br>
+✅ Data-Driven Insights – Helps HR teams make informed decisions.<br>
+✅ Customizable Slicers – Explore data at different levels for deeper insights.<br>
+✅ Actionable Metrics – Improve employee retention and workforce planning.<br>
 
-🚀 Let’s Optimize Workforce Analytics with Data!
-I’d love to hear your feedback! Feel free to explore, suggest improvements, and share your thoughts. 😊
+🚀 Let’s Optimize Workforce Analytics with Data!<br>
+I’d love to hear your feedback! Feel free to explore, suggest improvements, and share your thoughts. 😊<br>
 
-📌 Connect with me on LinkedIn 👉 https://www.linkedin.com/in/akshay-kanchibail-8556481b0/
+📌 Connect with me on LinkedIn 👉 https://www.linkedin.com/in/akshay-kanchibail-8556481b0/    <br>
 
 #PowerBI #HRAnalytics #EmployeeRetention #BusinessIntelligence #DataVisualization 🚀
